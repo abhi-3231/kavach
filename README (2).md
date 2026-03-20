@@ -258,13 +258,9 @@ kavach/
 
 ## 📹 Demo Video (Phase 1)
 
-> *(Insert your 2-minute video link here after recording)*
+https://youtu.be/iU0tS7iLido
 
-**What to cover in the video:**
-1. The problem — Ravi's story (30 sec)
-2. The Kavach solution — Zone Intelligence differentiator (40 sec)
-3. Quick walkthrough of onboarding prototype (30 sec)
-4. Weekly premium model explained (20 sec)
+
 
 ---
 
